@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00E0C6</color>
+    <color name="colorPrimaryDark">#009A60</color>
+    <color name="colorAccent">#E7BB4D</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGray">#535353</color>
+    <color name="BrightCerulean">#299CD7</color>
+    <color name="Brass">#C2AA42</color>
+    <color name="MaximumYellowRed">#E7BB4D</color>
+    <color name="Straw">#E8DB74</color>
+    <color name="DeepKoamaru">#363B75</color>
+    <color name="colorPrimaryTrans">#B200E0C6</color>
+    <color name="colorPrimaryDarkTrans">#B2009A60</color>
+    <color name="blackTrans">#72000000</color>
+
+</resources>
